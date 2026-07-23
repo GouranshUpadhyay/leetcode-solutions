@@ -7,6 +7,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
