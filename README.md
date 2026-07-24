@@ -9,6 +9,7 @@ My daily LeetCode solutions in Java.
 | [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -16,6 +17,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +32,20 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
