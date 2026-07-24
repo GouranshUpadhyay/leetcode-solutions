@@ -10,6 +10,7 @@ My daily LeetCode solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
