@@ -14,6 +14,7 @@ My daily LeetCode solutions in Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -42,6 +43,7 @@ My daily LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,9 +54,11 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
