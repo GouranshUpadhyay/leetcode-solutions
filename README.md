@@ -7,6 +7,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@ My daily LeetCode solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
