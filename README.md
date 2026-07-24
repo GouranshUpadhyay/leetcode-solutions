@@ -6,6 +6,7 @@ My daily LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ My daily LeetCode solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
