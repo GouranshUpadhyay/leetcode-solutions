@@ -9,6 +9,7 @@ My daily LeetCode solutions in Java.
 | [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ My daily LeetCode solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -73,6 +75,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
