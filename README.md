@@ -34,6 +34,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -51,6 +52,7 @@ My daily LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -109,6 +111,7 @@ My daily LeetCode solutions in Java.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
