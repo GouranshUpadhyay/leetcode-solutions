@@ -8,6 +8,7 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0015-3sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -42,6 +43,7 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0015-3sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +87,7 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0015-3sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0229-majority-element-ii) |
