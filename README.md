@@ -6,6 +6,7 @@ My daily LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0018-4sum) |
@@ -130,4 +131,12 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
