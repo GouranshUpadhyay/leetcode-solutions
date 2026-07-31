@@ -35,6 +35,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ My daily LeetCode solutions in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
