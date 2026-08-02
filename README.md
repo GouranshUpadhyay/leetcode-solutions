@@ -29,6 +29,7 @@ My daily LeetCode solutions in Java.
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -43,6 +44,7 @@ My daily LeetCode solutions in Java.
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ My daily LeetCode solutions in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +152,5 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
