@@ -34,6 +34,7 @@ My daily LeetCode solutions in Java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ My daily LeetCode solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ My daily LeetCode solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
