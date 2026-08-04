@@ -29,18 +29,18 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
-        HashSet<Integer> set = new HashSet<>();
+        int[] freq = new int[101];
 
         for (int num : nums) {
+            freq[num]++;
             min = Math.min(min, num);
             max = Math.max(max, num);
-            set.add(num);
         }
 
         List<Integer> ans = new ArrayList<>();
 
         for (int i = min + 1; i < max; i++) {
-            if (!set.contains(i)) {
+            if (freq[i] == 0) {
                 ans.add(i);
             }
         }
