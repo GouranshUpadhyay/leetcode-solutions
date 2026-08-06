@@ -48,6 +48,7 @@ My daily LeetCode solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,4 +181,8 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
