@@ -151,6 +151,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0038-count-and-say) |
 ## Trie
 |  |
@@ -186,4 +187,12 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
