@@ -123,6 +123,7 @@ My daily LeetCode solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -195,4 +196,8 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
