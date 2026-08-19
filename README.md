@@ -60,6 +60,7 @@ My daily LeetCode solutions in Java.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +114,7 @@ My daily LeetCode solutions in Java.
 | [0015-3sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -147,6 +149,7 @@ My daily LeetCode solutions in Java.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -213,6 +216,7 @@ My daily LeetCode solutions in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -220,4 +224,8 @@ My daily LeetCode solutions in Java.
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
