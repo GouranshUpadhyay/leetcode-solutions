@@ -42,6 +42,7 @@ My daily LeetCode solutions in Java.
 | [0069-sqrtx](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -60,6 +61,7 @@ My daily LeetCode solutions in Java.
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ My daily LeetCode solutions in Java.
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
@@ -216,4 +219,5 @@ My daily LeetCode solutions in Java.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
