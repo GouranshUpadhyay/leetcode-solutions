@@ -127,6 +127,7 @@ My daily LeetCode solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -203,6 +204,7 @@ My daily LeetCode solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
