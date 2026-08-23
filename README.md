@@ -95,6 +95,7 @@ My daily LeetCode solutions in Java.
 | [0242-valid-anagram](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +176,7 @@ My daily LeetCode solutions in Java.
 | [0058-length-of-last-word](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -242,4 +244,8 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
