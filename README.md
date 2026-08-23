@@ -92,6 +92,7 @@ My daily LeetCode solutions in Java.
 | [0202-happy-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +122,7 @@ My daily LeetCode solutions in Java.
 | [0169-majority-element](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +173,7 @@ My daily LeetCode solutions in Java.
 | [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
