@@ -28,6 +28,7 @@ My daily LeetCode solutions in Java.
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -261,4 +262,5 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
