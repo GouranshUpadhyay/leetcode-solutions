@@ -87,6 +87,7 @@ My daily LeetCode solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -177,6 +178,7 @@ My daily LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0038-count-and-say) |
@@ -261,6 +263,7 @@ My daily LeetCode solutions in Java.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
