@@ -33,6 +33,7 @@ My daily LeetCode solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +173,7 @@ My daily LeetCode solutions in Java.
 | [0209-minimum-size-subarray-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
