@@ -29,6 +29,7 @@ My daily LeetCode solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ My daily LeetCode solutions in Java.
 | [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -247,6 +249,7 @@ My daily LeetCode solutions in Java.
 | [0020-valid-parentheses](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
@@ -296,4 +299,8 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
