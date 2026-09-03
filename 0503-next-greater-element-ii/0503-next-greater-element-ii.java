@@ -1,15 +1,22 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int ans[]=new int[nums.length];
-        for(int i=0;i<nums.length;i++){
-            ans[i]=-1;
-            for(int j=1;j<nums.length;j++){
-                int index=(i+j)%nums.length;
-                if(nums[index]>nums[i]){
-                    ans[i]=nums[index];
-                    break;
+        int n=nums.length;
+        Deque<Integer> stack=new ArrayDeque<>();
+        for(int i=n*2-1;i>=0;i--){
+            int index=i%n;
+            while(!stack.isEmpty() && stack.peek()<=nums[index]){
+                stack.pop();
+            }
+            if(i<n){
+                if(stack.isEmpty()){
+                    ans[index]=-1;
+                }
+                else{
+                    ans[index]=stack.peek();
                 }
             }
+            stack.push(nums[index]);
         }
         return ans;
     }
