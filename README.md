@@ -47,6 +47,7 @@ My daily LeetCode solutions in Java.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +187,7 @@ My daily LeetCode solutions in Java.
 | [0724-find-pivot-index](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3904-smallest-stable-index-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
