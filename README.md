@@ -42,6 +42,7 @@ My daily LeetCode solutions in Java.
 | [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -94,6 +95,7 @@ My daily LeetCode solutions in Java.
 | [0509-fibonacci-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +126,7 @@ My daily LeetCode solutions in Java.
 | [0496-next-greater-element-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -132,6 +135,7 @@ My daily LeetCode solutions in Java.
 | [0209-minimum-size-subarray-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -306,6 +310,7 @@ My daily LeetCode solutions in Java.
 | [0424-longest-repeating-character-replacement](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
 | ------- |
