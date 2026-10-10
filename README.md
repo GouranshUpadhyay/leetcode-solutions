@@ -48,6 +48,7 @@ My daily LeetCode solutions in Java.
 | [1732-find-the-highest-altitude](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -137,6 +138,7 @@ My daily LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ My daily LeetCode solutions in Java.
 | [0628-maximum-product-of-three-numbers](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -210,6 +213,7 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -327,4 +331,8 @@ My daily LeetCode solutions in Java.
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouranshUpadhyay/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
